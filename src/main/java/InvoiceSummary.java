@@ -1,4 +1,3 @@
-
 public class InvoiceSummary {
 
     private final int numOfRides;
